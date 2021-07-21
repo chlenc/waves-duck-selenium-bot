@@ -1,0 +1,20 @@
+{
+  "name": "selenium-clicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.0.13",
+    "chromedriver": "^91.0.1",
+    "prettier": "^2.3.0"
+  }
+}
